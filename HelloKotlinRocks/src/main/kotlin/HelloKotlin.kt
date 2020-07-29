@@ -1,6 +1,8 @@
-fun main() {
 
-
+fun main () {
+    val openHours = 7
+    val now = 5
+    print(now)
 }
 
 //val name = "Krido"
